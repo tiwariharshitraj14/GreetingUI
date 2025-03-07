@@ -94,8 +94,3 @@ GreetingUI/
 
 ## 🤝 Contributing
 Feel free to fork this repository, raise issues, and submit pull requests to improve this project!
-
-
-## 📜 License
-This project is open-source and available under the MIT License.
-```
